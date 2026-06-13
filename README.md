@@ -21,11 +21,12 @@ Python-Mini-Projects/
 │
 ├── ATM_simulation/
 ├── Calculator/
-├── contact_book/
-├── inventory_management_system/
+├── Contact_Book/
+├── Inventory_Management/
 ├── number_guessing_game/
 ├── student_grade_system/
-├── to_do_list/
+├── To_Do_List/
+├── Quiz_Application/
 │
 └── README.md
 ```
@@ -36,4 +37,4 @@ Practice Python concepts through hands-on projects and build a strong programmin
 
 ## 📈 Progress
 
-- Completed Projects: 7
+- Completed Projects: 8
