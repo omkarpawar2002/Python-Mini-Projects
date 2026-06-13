@@ -13,6 +13,7 @@ A collection of Python projects built while learning Python programming.
 | Contact Book | Manage contacts using dictionaries | ✅ |
 | To-Do List | Manage daily tasks | ✅ |
 | Inventory Management | Manage products and stock | ✅ |
+| Quiz Application | Basic Quiz Application | ✅ |
 
 ## 📂 Repository Structure
 
